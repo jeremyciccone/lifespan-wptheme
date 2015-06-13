@@ -1,0 +1,23 @@
+{
+  "name": "lifespan-wptheme",
+  "version": "1.0.0",
+  "description": "Lifespan Services Wordpress Theme",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremyciccone/lifespan-wptheme.git"
+  },
+  "author": "Jeremy Ciccone",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/jeremyciccone/lifespan-wptheme/issues"
+  },
+  "homepage": "https://github.com/jeremyciccone/lifespan-wptheme"
+}
